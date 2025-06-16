@@ -28,7 +28,7 @@ Script-as-Test is not a new tool, but a **new structure** — an answer to a cor
 
 > **How can test scripts become a direct part of collaborative workflows?**
 
-![](images/00-1.png)
+![asset gap in the workflow](images/00-1.png)
 
 ## Chapter 1: Why Automated Tests Remain “Invisible”
 
@@ -60,7 +60,7 @@ Common workflow:
 4. Results imported into Xray, Zephyr, etc.;
 5. In some cases, test cases are generated (but remain unstructured).
 
-![](images/01-1.png)
+![common workflow](images/01-1.png)
 
 ### [The Blind Spot] Testing Logic and Structure Are Lost
 
@@ -142,7 +142,7 @@ This isn’t a problem with any single tool—it’s a missing bridge that conne
 
 Script-as-Test (SAT) is introduced to solve this issue of "water without a source"—testing efforts with no upstream traceability.
 
-![](images/02-1.png)
+![gaps](images/02-1.png)
 
 ## Chapter 3: The Script-as-Test (SAT) Model
 
@@ -252,7 +252,7 @@ For small and mid-sized teams just beginning their testing transformation journe
 
 **SAT is a mindset shift: turning scripts into collaborative assets—not just execution logic.**
 
-![](images/04-1.png)
+![SAT Model Test Case](images/04-1.png)
 
 ## Chapter 5: From Test Assets to Collaborative Transformation
 
@@ -302,7 +302,7 @@ Testing is no longer an island—it becomes part of a closed loop:
 
 This is not only a closed information loop, but also a cultural shift toward inclusion and alignment.
 
-![](images/05-1.png)
+![SAT Model Test Process](images/05-1.png)
 
 ## Summary: Making Automation the Starting Point of Collaboration
 
