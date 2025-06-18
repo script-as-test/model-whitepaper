@@ -20,7 +20,7 @@ There are two implementations of this framework:
 
 - PyPI: [`atlassian-auto-test-case-manager`](https://pypi.org/project/atlassian-auto-test-case-manager/)
 
-### 🌐 Jira Cloud Plugin (Private Beta)
+### 🧩 Jira Cloud Plugin (Private Beta)
 
 - Docs: [AutoTestCase Extractor](https://docs.tman.ltd/atce/overview)
 - Marketplace: *(Coming Soon)*
